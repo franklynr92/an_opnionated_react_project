@@ -5,7 +5,6 @@
 /.pnp
 .pnp.js
 
-src/Comment.js
 
 # testing
 /coverage
